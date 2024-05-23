@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Carga de asientos en el Diario General","type":"item","tilePath":"assets/images/bi_file-earmark-plus.png","description":"","url":"html/accountingentries.html"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

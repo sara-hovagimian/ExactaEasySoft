@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="ExactaWEB" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="html\addDeleteModify.html">
+    
+    <topic>
+      html\addDeleteModify.html
+    </topic>
+    
+    <topic>
+      html\searchOrder.html
+    </topic>
+    
+    <topic>
+      html\fiscalyearaddupdate.html
+    </topic>
+    
+    <topic>
+      html\accounts.html
+    </topic>
+    
+    <topic>
+      html\accountingentries.html
+    </topic>
+    
+    <topic>
+      html\balance.html
+    </topic>
+    
+    <topic>
+      html\ledgers.html
+    </topic>
+    
+    <topic>
+      html\journalreport.html
+    </topic>
+    
+    <topic>
+      html\views.html
+    </topic>
+    
+    <topic>
+      html\faq.html
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        es_ES
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+    <filenameentry moniker="favicon">
+      <filename>
+        C:/PRoyExactaWEB/contents/assets/images/Favicon-EasySoft.svg
+      </filename>
+    </filenameentry>
+    
+  </filenamemap>
+</ppfml>

@@ -1,1 +1,1 @@
-(function() {    var toc =  [{"name":"Año fiscal","type":"item","tilePath":"assets/images/bi_calendar4-week.png","description":"","url":"html/fiscalyearaddupdate.html"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
+(function() {    var toc =  [{"name":"Año fiscal","type":"item","tilePath":"assets/images/bi_calendar4-week.png","description":"","url":"html/fiscalyears.html"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

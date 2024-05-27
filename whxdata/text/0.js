@@ -1,1 +1,1 @@
-rh._.exports({"0":[["AltaModifCuentas"]],"id":"0"})
+rh._.exports({"0":[["exaFooter"]],"1":[[" ","Exacta EasySoft"," ","v:","1.0.0.0 - 12/12/2024"," ","-"," ","Powered by"," ","-"," ","Términos y condiciones."]],"id":"0"})

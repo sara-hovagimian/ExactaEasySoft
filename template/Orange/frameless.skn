@@ -78,6 +78,8 @@
       <tileSelection type="boolean">false</tileSelection>
       <showHeaderLinksOnHomepage type="boolean">true</showHeaderLinksOnHomepage>
       <stickyTopicHeader type="boolean">true</stickyTopicHeader>
+      <stickyTopicFooter type="boolean">true</stickyTopicFooter>
+      <stickyHomepageFooter type="boolean">true</stickyHomepageFooter>
       <showName type="boolean">false</showName>
       <toTop type="boolean">true</toTop>
       <fullScreen type="boolean">true</fullScreen>

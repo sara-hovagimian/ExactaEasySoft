@@ -1290,7 +1290,6 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-HOMEPAGE-TITLEBAR-logo {
-  width: 15rem;
   background-image: url('Logo-EasySot.svg');;;
 }
 
@@ -1301,7 +1300,6 @@ background-image: url('print.svg');;;
   font-family: 'IBM Plex Sans';
   font-weight: bold;
   font-size: 2rem;
-  margin-left: 19rem;
 }
 
 .rh-layout-HOMEPAGE-titlebar-right-box {

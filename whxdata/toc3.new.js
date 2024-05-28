@@ -1,1 +1,1 @@
-(function() {    var toc =  [{"name":"Cuentas","type":"item","tilePath":"assets/images/bi_card-checklist.png","description":"","url":"html/accounts.html"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
+(function() {    var toc =  [{"name":"Cuentas","type":"item","tilePath":"assets/images/bi_folder-plus.svg","description":"","url":"html/accounts.html"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

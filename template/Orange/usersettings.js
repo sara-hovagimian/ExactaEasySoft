@@ -38,7 +38,7 @@ var backgroundColor = "#509de6";
 	model.publish(rh.consts('KEY_IS_RESPONSIVE'), true);
 	model.publish(rh.consts('SHOW_PDF_DOWNLOAD'), "");
 
-	model.publish(rh.consts('MINITOC_FROM_LEVEL'), 2)
+	model.publish(rh.consts('MINITOC_FROM_LEVEL'), 1)
 	model.publish(rh.consts('MINITOC_TO_LEVEL'), 4)
 	model.publish(rh.consts('MINITOC_CAPTION'), "")
 

@@ -68,12 +68,13 @@
       <showBreadcrumbs type="boolean">true</showBreadcrumbs>
       <hyperlinkHomeToDefaultTopic type="boolean">true</hyperlinkHomeToDefaultTopic>
       <showRightPanel type="boolean">true</showRightPanel>
-      <minitoc_levelFrom>2</minitoc_levelFrom>
+      <minitoc_levelFrom>1</minitoc_levelFrom>
       <minitoc_levelTo>4</minitoc_levelTo>
       <minitoc_caption></minitoc_caption>
       <gdprCompliant type="boolean">false</gdprCompliant>
       <showOnlyDesktopView type="boolean">true</showOnlyDesktopView>
       <drillDownTOC type="boolean">true</drillDownTOC>
+      <showTileDescription type="boolean">false</showTileDescription>
       <limitTilesCount type="boolean">false</limitTilesCount>
       <tileSelection type="boolean">false</tileSelection>
       <showHeaderLinksOnHomepage type="boolean">true</showHeaderLinksOnHomepage>

@@ -724,6 +724,7 @@ label {
 }
 
 .RH-LAYOUT-BODY-container {
+  background-color: #F0F0F0;
 }
 
 .rh-hyperlink-popover {
@@ -737,8 +738,8 @@ label {
 .RH-LAYOUT-HEADER-container {
   color: #6475CD;
   font-family: 'IBM Plex Sans';
-  font-weight: 600;
-  font-size: 24px;
+  font-weight: bold;
+  font-size: 1.2rem;
 }
 
 .sticky-header {
@@ -746,15 +747,14 @@ label {
 
 .RH-LAYOUT-HEADER-logo-box {
   font-family: 'IBM Plex Sans';
-  font-weight: 600;
-  font-size: 24px;
+  font-weight: bold;
   color: #6475CD;
 }
 
 .RH-LAYOUT-HEADER-logo {
-  background-image: url('LogoEasySoft.png');;;
-  background-size: 150px 32px;
-  width: 10rem;
+  background-image: url('Logo-EasySoft.svg');;;
+  vertical-align: middle;
+  background-size: 100%;
 }
 
 .rh-layout-HEADER-logo-link {
@@ -770,23 +770,21 @@ label {
 }
 
 .RH-LAYOUT-HEADER-title {
-  font-size: 24px;
+  font-size: 1.2rem;
   font-family: 'IBM Plex Sans';
-  font-weight: 600;
+  font-weight: bold;
   color: #000000;
-  margin-top: 130px;
-  margin-right: 130px;
-  margin-bottom: 130px;
-  margin-left: 130px;
+  background-color: transparent;
 }
 
 
 
 .RH-LAYOUT-LEFTPANEL-container {
-  background-color: #F0F0F0;
+  background-color: #FFFFFF;
 }
 
 .RH-LAYOUT-LEFTPANEL-tab-panel {
+  background-color: #FFFFFF;
 }
 
 .RH-LAYOUT-LEFTPANEL-toc {
@@ -912,11 +910,11 @@ label {
   }
 
   .RH-LAYOUT-TOOLBAR-button-1 .RH-LAYOUT-TOOLBAR-button-icon {
-    background-image: url('unsaved.svg');;;
+  background-image: url('bi_heart.svg');;;
   }
   
   .RH-LAYOUT-TOOLBAR-button-1 .RH-LAYOUT-TOOLBAR-button-icon-applied {
-  background-image: url('saved.svg');;;
+  background-image: url('bi_heart-fill.svg');;;
   }
   
   .RH-LAYOUT-TOOLBAR-button-2 {
@@ -940,7 +938,7 @@ label {
   }
   
   .RH-LAYOUT-TOOLBAR-button-3 .RH-LAYOUT-TOOLBAR-button-icon {
-    background-image: url('bmrk_select.svg');;;
+  background-image: url('bi_heart-fill.svg');;;
   }
   
   .RH-LAYOUT-TOOLBAR-button-3 .RH-LAYOUT-TOOLBAR-button-icon-applied {
@@ -983,11 +981,11 @@ label {
   }
 
   .RH-LAYOUT-TOOLBAR-button-6 .RH-LAYOUT-TOOLBAR-button-icon {
-    background-image: url('share.svg');;;
+  background-image: url('bi_share.svg');;;
   }
   
   .RH-LAYOUT-TOOLBAR-button-6 .RH-LAYOUT-TOOLBAR-button-icon-applied {
-  background-image: url('share.svg');;;
+  background-image: url('bi_share.svg');;;
   }
   
   .RH-LAYOUT-TOOLBAR-button-7 {
@@ -1023,11 +1021,11 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-HOMEPAGE-TOOLBAR-button-1 .RH-LAYOUT-HOMEPAGE-TOOLBAR-button-icon {
-    background-image: url('homepage-unsaved.svg');;;
+  background-image: url('bi_heart.svg');;;
 }
   
 .RH-LAYOUT-HOMEPAGE-TOOLBAR-button-1 .RH-LAYOUT-HOMEPAGE-TOOLBAR-button-icon-applied {
-  background-image: url('homepage-saved.svg');;;
+  background-image: url('bi_heart-fill.svg');;;
 }
   
 .RH-LAYOUT-HOMEPAGE-TOOLBAR-button-2 {
@@ -1081,7 +1079,7 @@ background-image: url('print.svg');;;
 
 .RH-LAYOUT-TOOLBAR-toolbar-box {
   height: 4rem;
-  background-color: #F0F0F0;
+  background-color: #FFFFFF;
 }
 
 .RH-LAYOUT-TOOLBAR-toolbar {
@@ -1109,6 +1107,7 @@ background-image: url('print.svg');;;
 .RH-LAYOUT-TOOLBAR-menu {
 }
 .RH-LAYOUT-CENTERPANEL-container {
+  margin-left: 1rem;
 }
 
 .RH-LAYOUT-CENTERPANEL-container-fullscreen {
@@ -1116,6 +1115,7 @@ background-image: url('print.svg');;;
 
 
 .RH-LAYOUT-CENTERPANEL-topic-box {
+  padding-left: 0.5rem;
 }
 
 
@@ -1236,19 +1236,19 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-RIGHTPANEL-fav-button {
-  background-image: url('unsaved.svg');;;
+  background-image: url('bi_heart.svg');;;
 }
 
 .RH-LAYOUT-RIGHTPANEL-rightpanel-bmrk-saved {
-  background-image: url('saved.svg');;;
+  background-image: url('bi_heart-fill.svg');;;
 }
 
 .RH-LAYOUT-RIGHTPANEL-print-button {
-  background-image: url('print.svg');;;
+  background-image: url('bi_printer.svg');;;
 }
 
 .RH-LAYOUT-RIGHTPANEL-highlight-remove-button {
-  background-image: url('highlight.svg');;;
+  background-image: url('bi_highlighter.svg');;;
 }
 
 .RH-LAYOUT-RIGHTPANEL-pageup-button {
@@ -1290,7 +1290,7 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-HOMEPAGE-TITLEBAR-logo {
-  background-image: url('Logo-EasySot.svg');;;
+  background-image: url('Logo-EasySoft.svg');;;
 }
 
 .rh-layout-HOMEPAGE-TITLEBAR-logo-link {
@@ -1299,7 +1299,7 @@ background-image: url('print.svg');;;
 .RH-LAYOUT-HOMEPAGE-TITLEBAR-title {
   font-family: 'IBM Plex Sans';
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1.2rem;
 }
 
 .rh-layout-HOMEPAGE-titlebar-right-box {
@@ -1335,6 +1335,7 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-HOMEPAGE-SEARCHBOX-text-field {
+  font-family: 'IBM Plex Sans';
 }
 
 .rh-layout-HOMEPAGE-SEARCHBOX-predictions-container {
@@ -1374,21 +1375,30 @@ background-image: url('print.svg');;;
 .RH-LAYOUT-HOMEPAGE-TOC-tile-box {
   width: 12rem;
   height: 11rem;
-  color: #FF0000;
-  border-left-color: #8E8888;
-  border-top-color: #8E8888;
-  border-right-color: #8E8888;
-  border-bottom-color: #8E8888;
-  border-left-style: none;
-  border-top-style: none;
-  border-right-style: none;
-  border-bottom-style: none;
+  color: #000000;
+  border-left-color: #6574CD;
+  border-top-color: #6574CD;
+  border-right-color: #6574CD;
+  border-bottom-color: #6574CD;
+  border-left-style: outset;
+  border-top-style: outset;
+  border-right-style: outset;
+  border-bottom-style: outset;
+  border-top-left-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+  background-color: #FFFFFF;
+  border-left-width: 2px;
+  border-top-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+  opacity: 1;
 }
 
 .RH-LAYOUT-HOMEPAGE-TOC-image-box {
   background-image: url('toc_default_tile.svg');;;
   height: 6rem;
-  background-color: #E0E0E0;
 }
 
 .RH-LAYOUT-HOMEPAGE-TOC-details-box {
@@ -2205,6 +2215,7 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-HEADER-skip-content-link:focus {
+    color: #000000;
 }
 
 

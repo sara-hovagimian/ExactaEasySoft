@@ -2280,6 +2280,7 @@ background-image: url('print.svg');;;
   }
   
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-TOOLBAR-button-3 .RH-LAYOUT-TOOLBAR-button-icon {
+  background-image: url('bi_heart-fill.svg');;;
   
   }
   
@@ -2379,6 +2380,7 @@ background-image: url('print.svg');;;
 }
   
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TOOLBAR-button-1 .RH-LAYOUT-HOMEPAGE-TOOLBAR-button-icon-applied {
+  background-image: url('bi_heart-fill.svg');;;
     
 }
   
@@ -2412,6 +2414,7 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-TOOLBAR-panel-show {
+  background-size: auto;
   background-image: url('expand_toc.svg');;;
 
 }
@@ -2498,27 +2501,44 @@ background-image: url('print.svg');;;
   }
   
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-FOOTER-container {
+  font-family: 'IBM Plex Sans';
+  font-weight: normal;
+  font-size: 0.5rem;
 
 }
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TITLEBAR-container {
+  height: 10rem;
+  vertical-align: middle;
   
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TITLEBAR-title-bar {
+  font-size: 1.2rem;
+  font-family: 'IBM Plex Sans';
+  font-weight: bold;
+  padding-top: 0.5rem;
+  padding-right: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
  
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TITLEBAR-logo {
+  background-size: auto;
   background-image: url('Logo-EasySoft.svg');;;
-  width: 20%;
+  margin-right: 2rem;
+  vertical-align: middle;
+  margin-left: 2rem;
+  width: 18%;
  
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TITLEBAR-title {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family: 'IBM Plex Sans';
   font-weight: bold;
   color: #000000;
+  margin-left: -1.3rem;
 }
 
 
@@ -2533,15 +2553,17 @@ background-image: url('print.svg');;;
   color: #2C2C2C;
   font-family: 'IBM Plex Sans';
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 1rem;
   
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-SEARCHBOX-outer-box {
+  margin-top: -4rem;
  
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-SEARCHBOX-inner-box {
+  height: 70%;
  
 }
 
@@ -2554,6 +2576,9 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-SEARCHBOX-text-field {
+  font-family: 'IBM Plex Sans';
+  font-weight: normal;
+  font-size: 0.8rem;
   
 }
 
@@ -2612,6 +2637,9 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-FOOTER-container {
+  font-family: 'IBM Plex Sans';
+  font-size: 0.6rem;
+  font-weight: normal;
   
 }
 
@@ -2989,12 +3017,12 @@ background-image: url('print.svg');;;
   font-family: 'IBM Plex Sans';
   font-weight: bold;
   font-size: 1rem;
-  width: 15rem;
+  width: 18rem;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HEADER-logo {
   background-image: url('Logo-EasySoft.svg');;;
-  width: 20%;
+  width: 18%;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HEADER-title {
@@ -3002,6 +3030,7 @@ background-image: url('print.svg');;;
   font-family: 'IBM Plex Sans';
   font-weight: bold;
   color: #000000;
+  margin-left: 0.1rem;
 }
 
 
@@ -3155,6 +3184,9 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-CENTERPANEL-container {
+  font-family: 'IBM Plex Sans';
+  font-size: 0.5rem;
+  font-weight: normal;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-LEFTPANEL-panel-hide {
@@ -3167,6 +3199,10 @@ background-image: url('print.svg');;;
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-TOOLBAR-button-icon {}
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-CENTERPANEL-topic-box {
+  font-family: 'IBM Plex Sans';
+  background-color: #FFFFFF;
+  font-size: 0.5rem;
+  font-weight: normal;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-RIGHTPANEL-container {
@@ -3192,6 +3228,9 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-BODY-container {
+  font-family: 'IBM Plex Sans';
+  font-weight: normal;
+  font-size: 0.8rem;
 }
 
 .RH-LAYOUT-BODY-mobile-view .rh-layout-BODY-body {

@@ -1122,6 +1122,9 @@ background-image: url('print.svg');;;
 
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-CENTERPANEL-top-panel {
+  font-family: 'IBM Plex Sans';
+  font-weight: normal;
+  font-size: 0.6rem;
 }
 .RH-LAYOUT-SEARCHRESULTS-container {
 }
@@ -2502,8 +2505,6 @@ background-image: url('print.svg');;;
   
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-FOOTER-container {
   font-family: 'IBM Plex Sans';
-  font-weight: normal;
-  font-size: 0.5rem;
 
 }
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TITLEBAR-container {
@@ -2529,7 +2530,7 @@ background-image: url('print.svg');;;
   margin-right: 2rem;
   vertical-align: middle;
   margin-left: 2rem;
-  width: 18%;
+  width: 13%;
  
 }
 
@@ -3017,7 +3018,7 @@ background-image: url('print.svg');;;
   font-family: 'IBM Plex Sans';
   font-weight: bold;
   font-size: 1rem;
-  width: 18rem;
+  width: 17rem;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HEADER-logo {
@@ -3185,7 +3186,7 @@ background-image: url('print.svg');;;
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-CENTERPANEL-container {
   font-family: 'IBM Plex Sans';
-  font-size: 0.5rem;
+  font-size: 0.8rem;
   font-weight: normal;
 }
 
@@ -3201,7 +3202,6 @@ background-image: url('print.svg');;;
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-CENTERPANEL-topic-box {
   font-family: 'IBM Plex Sans';
   background-color: #FFFFFF;
-  font-size: 0.5rem;
   font-weight: normal;
 }
 

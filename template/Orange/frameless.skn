@@ -101,6 +101,7 @@
           <title>Expand All</title>
           <onclick>EVT_EXPAND_COLLAPSE_ALL</onclick>
           <toggledTitle>Collapse All</toggledTitle>
+          <key>0171</key>
         </custom_buttonsitem>
         <custom_buttonsitem>
           <id>1</id>
@@ -110,6 +111,7 @@
           <title>Favorites</title>
           <onclick>EVT_SHOW_FAVORITES</onclick>
           <show>@showFav</show>
+          <key>1172</key>
         </custom_buttonsitem>
         <custom_buttonsitem>
           <id>2</id>
@@ -119,6 +121,7 @@
           <title>Filter</title>
           <onclick>EVT_SHOW_FILTERS</onclick>
           <show>@showFilter</show>
+          <key>2173</key>
         </custom_buttonsitem>
         <custom_buttonsitem>
           <id>3</id>
@@ -128,6 +131,7 @@
           <title>Select Bookmark</title>
           <onclick>EVT_SHOW_BOOKMARKS</onclick>
           <show>@showBmrkSelect</show>
+          <key>3174</key>
         </custom_buttonsitem>
         <custom_buttonsitem>
           <id>4</id>
@@ -137,6 +141,7 @@
           <title>Download PDF</title>
           <onclick>EVT_DOWNLOAD_PDF</onclick>
           <show>@showPdf</show>
+          <key>4175</key>
         </custom_buttonsitem>
         <custom_buttonsitem>
           <id>5</id>
@@ -146,6 +151,7 @@
           <title>Search</title>
           <onclick>EVT_PROJ_SEARCH</onclick>
           <show>@showSearchIcon</show>
+          <key>5176</key>
         </custom_buttonsitem>
         <custom_buttonsitem>
           <id>6</id>
@@ -153,6 +159,7 @@
           <tabId>Share</tabId>
           <onclick>EVT_SHOW_SHARE</onclick>
           <title>Share</title>
+          <key>6177</key>
         </custom_buttonsitem>
       </custom_buttons>
       <custom_links type="array"></custom_links>

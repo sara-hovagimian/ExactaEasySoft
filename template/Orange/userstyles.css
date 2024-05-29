@@ -775,6 +775,7 @@ label {
   font-weight: bold;
   color: #000000;
   background-color: transparent;
+  margin-top: -0.3rem;
 }
 
 
@@ -910,7 +911,7 @@ label {
   }
 
   .RH-LAYOUT-TOOLBAR-button-1 .RH-LAYOUT-TOOLBAR-button-icon {
-  background-image: url('bi_heart.svg');;;
+    background-image: url('bi_heart.svg');;;
   }
   
   .RH-LAYOUT-TOOLBAR-button-1 .RH-LAYOUT-TOOLBAR-button-icon-applied {
@@ -938,7 +939,7 @@ label {
   }
   
   .RH-LAYOUT-TOOLBAR-button-3 .RH-LAYOUT-TOOLBAR-button-icon {
-  background-image: url('bi_heart-fill.svg');;;
+    background-image: url('bi_heart-fill.svg');;;
   }
   
   .RH-LAYOUT-TOOLBAR-button-3 .RH-LAYOUT-TOOLBAR-button-icon-applied {
@@ -981,7 +982,7 @@ label {
   }
 
   .RH-LAYOUT-TOOLBAR-button-6 .RH-LAYOUT-TOOLBAR-button-icon {
-  background-image: url('bi_share.svg');;;
+    background-image: url('bi_share.svg');;;
   }
   
   .RH-LAYOUT-TOOLBAR-button-6 .RH-LAYOUT-TOOLBAR-button-icon-applied {
@@ -1021,7 +1022,7 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-HOMEPAGE-TOOLBAR-button-1 .RH-LAYOUT-HOMEPAGE-TOOLBAR-button-icon {
-  background-image: url('bi_heart.svg');;;
+    background-image: url('bi_heart.svg');;;
 }
   
 .RH-LAYOUT-HOMEPAGE-TOOLBAR-button-1 .RH-LAYOUT-HOMEPAGE-TOOLBAR-button-icon-applied {
@@ -1280,11 +1281,15 @@ background-image: url('print.svg');;;
 .sticky-footer {
 }
 .RH-LAYOUT-HOMEPAGE-TITLEBAR-container {
-  height: 20rem;
-  background-image: url('banner_capacitación4.jpg');;;
+  height: 13rem;
+  background-image: url('Fondo-1-Header-Centro-Aprendizaje.GIF');;;
+  font-family: 'IBM Plex Sans';
+  font-weight: bold;
+  font-size: 1.2rem;
 }
 
 .RH-LAYOUT-HOMEPAGE-TITLEBAR-title-bar {
+  height: 0.5rem;
   vertical-align: middle;
   position: relative;
 }
@@ -1306,8 +1311,11 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-HOMEPAGE-TITLEBAR-caption-bar {
-  margin-top: 2rem;
+  font-size: 1.2rem;
+  margin-top: -5rem;
   margin-left: 3rem;
+  font-family: 'IBM Plex Sans';
+  font-weight: bold;
 }
 
 .RH-LAYOUT-HOMEPAGE-TITLEBAR-caption {
@@ -1319,6 +1327,7 @@ background-image: url('print.svg');;;
   height: 2.5rem;
   padding-left: 1rem;
   vertical-align: middle;
+  margin-top: -2rem;
 }
 
 .rh-layout-HOMEPAGE-SEARCHBOX-searchcontainer {
@@ -1380,14 +1389,14 @@ background-image: url('print.svg');;;
   border-top-color: #6574CD;
   border-right-color: #6574CD;
   border-bottom-color: #6574CD;
-  border-left-style: outset;
-  border-top-style: outset;
-  border-right-style: outset;
-  border-bottom-style: outset;
-  border-top-left-radius: 0.25rem;
-  border-bottom-right-radius: 0.25rem;
-  border-top-right-radius: 0.25rem;
-  border-bottom-left-radius: 0.25rem;
+  border-left-style: none;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-top-left-radius: 0.4rem;
+  border-bottom-right-radius: 0.4rem;
+  border-top-right-radius: 0.4rem;
+  border-bottom-left-radius: 0.4rem;
   background-color: #FFFFFF;
   border-left-width: 2px;
   border-top-width: 2px;
@@ -2499,18 +2508,31 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TITLEBAR-logo {
+  background-image: url('Logo-EasySoft.svg');;;
+  width: 20%;
  
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TITLEBAR-title {
+  font-size: 1.2rem;
+  font-family: 'IBM Plex Sans';
+  font-weight: bold;
+  color: #000000;
 }
 
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TITLEBAR-caption-bar {
+  font-family: 'IBM Plex Sans';
+  font-weight: bold;
+  font-size: 1.2rem;
   
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TITLEBAR-caption {
+  color: #2C2C2C;
+  font-family: 'IBM Plex Sans';
+  font-weight: bold;
+  font-size: 1.2rem;
   
 }
 
@@ -2556,6 +2578,7 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TOC-container {
+  background-color: #F0F0F0;
   
 }
 
@@ -2953,15 +2976,31 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HEADER-container {
+  height: 2rem;
+  margin-bottom: 1rem;
+  padding-top: 0.5rem;
+  padding-right: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HEADER-logo-box {
+  font-family: 'IBM Plex Sans';
+  font-weight: bold;
+  font-size: 1rem;
+  width: 15rem;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HEADER-logo {
+  background-image: url('Logo-EasySoft.svg');;;
+  width: 20%;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HEADER-title {
+  font-size: 1rem;
+  font-family: 'IBM Plex Sans';
+  font-weight: bold;
+  color: #000000;
 }
 
 

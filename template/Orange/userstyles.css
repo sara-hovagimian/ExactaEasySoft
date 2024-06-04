@@ -1284,8 +1284,8 @@ background-image: url('print.svg');;;
 .sticky-footer {
 }
 .RH-LAYOUT-HOMEPAGE-TITLEBAR-container {
-  height: 13rem;
-  background-image: url('Fondo-1-Header-Centro-Aprendizaje.GIF');;;
+  height: 18rem;
+  background-image: url('homepage_background.png');;;
   font-family: 'IBM Plex Sans';
   font-weight: bold;
   font-size: 1.2rem;
@@ -1298,6 +1298,7 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-HOMEPAGE-TITLEBAR-logo {
+  width: 10rem;
   background-image: url('Logo-EasySoft.svg');;;
 }
 
@@ -1307,7 +1308,7 @@ background-image: url('print.svg');;;
 .RH-LAYOUT-HOMEPAGE-TITLEBAR-title {
   font-family: 'IBM Plex Sans';
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 1.8rem;
 }
 
 .rh-layout-HOMEPAGE-titlebar-right-box {

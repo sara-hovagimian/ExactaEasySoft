@@ -2529,6 +2529,7 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TITLEBAR-logo {
+  height: 2.5rem;
   background-image: url('Logo-EasySoft.svg');;;
   vertical-align: middle;
   width: 20%;

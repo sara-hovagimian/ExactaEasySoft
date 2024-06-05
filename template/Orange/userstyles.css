@@ -2623,14 +2623,17 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TOC-tile-box {
+  height: 90%;
   
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TOC-image-box {
+  height: 50%;
   
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TOC-details-box {
+  height: 20%;
   
 }
 

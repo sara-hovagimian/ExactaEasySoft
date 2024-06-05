@@ -2629,6 +2629,7 @@ background-image: url('print.svg');;;
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TOC-image-box {
   height: 50%;
+  margin-top: 1rem;
   
 }
 

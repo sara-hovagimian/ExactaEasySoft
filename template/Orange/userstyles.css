@@ -2532,7 +2532,7 @@ background-image: url('print.svg');;;
   height: 2.5rem;
   background-image: url('Logo-EasySoft.svg');;;
   vertical-align: middle;
-  width: 20%;
+  width: 25%;
  
 }
 
@@ -2623,18 +2623,14 @@ background-image: url('print.svg');;;
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TOC-tile-box {
-  height: 90%;
   
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TOC-image-box {
-  height: 50%;
-  margin-top: 1rem;
   
 }
 
 .RH-LAYOUT-BODY-mobile-view .RH-LAYOUT-HOMEPAGE-TOC-details-box {
-  height: 20%;
   
 }
 

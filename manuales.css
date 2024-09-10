@@ -60,6 +60,23 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+.RH-LAYOUT-CENTERPANEL-topic-box img.imageProductSmall, .RH-LAYOUT-FOOTER-container img.imageProductSmall, .RH-LAYOUT-HOMEPAGE-FOOTER-container img.imageProductSmall {
+  border-left-style: solid;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-color: #808080;
+  border-top-color: #808080;
+  border-right-color: #808080;
+  border-bottom-color: #808080;
+  border-left-width: 1px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 .RH-LAYOUT-CENTERPANEL-topic-box img.videoProduct, .RH-LAYOUT-FOOTER-container img.videoProduct, .RH-LAYOUT-HOMEPAGE-FOOTER-container img.videoProduct {
   border-left-style: solid;
   border-top-style: solid;
@@ -151,4 +168,7 @@
 .RH-LAYOUT-CENTERPANEL-topic-box content.palabrasinegrita, .RH-LAYOUT-FOOTER-container content.palabrasinegrita, .RH-LAYOUT-HOMEPAGE-FOOTER-container content.palabrasinegrita {
   font-weight: normal;
   font-family: 'IBM Plex Sans';
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul.Disc, .RH-LAYOUT-FOOTER-container ul.Disc, .RH-LAYOUT-HOMEPAGE-FOOTER-container ul.Disc {
+  list-style: disc;
 }
